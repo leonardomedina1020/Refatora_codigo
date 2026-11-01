@@ -1,4 +1,4 @@
-#code smell identificado: uma única função com várias responsabilidades diferentes(bloater)(função longa)
+#code smell identificado: uma única função com várias responsabilidades diferentes(bloater)(metodo longo)
 #solução utilizada:dividir em multiplas funções
 
 

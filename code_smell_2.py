@@ -1,5 +1,5 @@
 #bloater(muitos parametros)
-#dividir em multiplas classes
+#dividir dados em classes
 
 
 class Endereco:
