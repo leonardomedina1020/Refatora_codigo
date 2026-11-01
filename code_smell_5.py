@@ -1,4 +1,4 @@
-#impedidor de mudança
+#impedidor de mudança(divergente)
 #separar responsabilidades
 
 class Produto:
